@@ -1,0 +1,15 @@
+.App{
+  margin:auto;
+  text-align: center;
+}
+.App .input{
+border-radius: 50%;
+border-color:red;
+text-align: center;
+
+}
+.App .name{
+  margin:auto;
+  color: aqua;
+  width:30px;
+}
